@@ -21,7 +21,7 @@ $ npm install
 
 ## Stage 
 
-- Development
+Stage : ___Development___
 
 ## Preview Application
 
@@ -30,6 +30,6 @@ $ npm install
 ![Screenshot 2024-09-27 232642](https://github.com/user-attachments/assets/63b6cd74-deb6-458c-8cea-559add073b28)
 ![Screenshot 2024-09-27 233015](https://github.com/user-attachments/assets/d94ab7ba-38a3-4078-b049-fe5f6f7c72af)
 
-Responsive Mode 
+## Responsive Mode 
 
--
+
